@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1701971138 source:c:\users\user\desktop\cpackage\bbplayersstats\basketball_stats.c
+	"basketball_stats.h"
+	<stdio.h>
+
+1701971017 c:\users\user\desktop\cpackage\bbplayersstats\basketball_stats.h
+
+1701971836 source:c:\users\user\desktop\cpackage\bbplayersstats\main.c
+	<stdio.h>
+	"basketball_stats.h"
+
